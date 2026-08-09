@@ -219,18 +219,15 @@ menu() {
 
     printf "\n\n"
 
-    printf "%*s╔═══════════════════════════════════════════╗\n" "$left_padding" ""
-    printf "%*s║              OSINT MASTER                ║\n" "$left_padding" ""
-    printf "%*s╠═══════════════════════════════════════════╣\n" "$left_padding" ""
-    printf "%*s║ [1] Instalar requisitos                  ║\n" "$left_padding" ""
-    printf "%*s║ [2] Domínios e infraestrutura            ║\n" "$left_padding" ""
-    printf "%*s║ [3] Pessoas, emails e redes sociais      ║\n" "$left_padding" ""
-    printf "%*s║ [4] Frameworks OSINT                     ║\n" "$left_padding" ""
-    printf "%*s║ [5] Metadados e documentos               ║\n" "$left_padding" ""
-    printf "%*s║ [6] Screenshots / triagem web            ║\n" "$left_padding" ""
-    printf "%*s║ [7] APIs                                 ║\n" "$left_padding" ""
-    printf "%*s║ [0] Sair                                 ║\n" "$left_padding" ""
-    printf "%*s╚═══════════════════════════════════════════╝\n" "$left_padding" ""
+    printf "%*s              OSINT MASTER                \n" "$left_padding" ""
+    printf "%*s [1] Instalar requisitos                  \n" "$left_padding" ""
+    printf "%*s [2] Domínios e infraestrutura            \n" "$left_padding" ""
+    printf "%*s [3] Pessoas, emails e redes sociais      \n" "$left_padding" ""
+    printf "%*s [4] Frameworks OSINT                     \n" "$left_padding" ""
+    printf "%*s [5] Metadados e documentos               \n" "$left_padding" ""
+    printf "%*s [6] Screenshots / triagem web            \n" "$left_padding" ""
+    printf "%*s [7] APIs                                 \n" "$left_padding" ""
+    printf "%*s [0] Sair                                 \n" "$left_padding" ""
 
     printf "\n"
     printf "%*sOSINT Master > " "$left_padding" ""
@@ -247,7 +244,7 @@ menu() {
         7) apis ;;
         0)
             clear
-            echo "Até a próxima!"
+            echo "Até a proxima"
             exit 0
             ;;
         *)
