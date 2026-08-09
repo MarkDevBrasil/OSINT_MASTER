@@ -1,6 +1,3 @@
-<img width="699" height="720" alt="image" src="https://github.com/user-attachments/assets/88785981-cf70-4b1a-90ca-6fb8ab458e83" />
-
-
 
 
 # 🔎 OSINT Master
@@ -70,3 +67,8 @@ See the `LICENSE` file for more info.
 ---
 
 Made by **Mark** 
+
+
+
+<img width="642" height="642" alt="image" src="https://github.com/user-attachments/assets/12007a5f-8be5-4109-ba25-b7ecfb662920" />
+
