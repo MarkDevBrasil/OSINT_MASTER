@@ -1,94 +1,67 @@
 # 🔎 OSINT Master
 
-**OSINT Master** is a Bash-based tool designed to automate the installation of essential **Open Source Intelligence (OSINT)** tools on Linux systems.
+OSINT Master is a simple Bash script that helps you install some useful OSINT tools on Linux.
 
-The goal is to make setting up an OSINT environment faster and easier by automating the installation process instead of requiring each tool to be installed manually.
+The idea is pretty simple: instead of installing everything one by one, you can just run the script and let it do the work.
 
-> ⚠️ **Disclaimer:** This project is intended for educational, research, and authorized security testing purposes only. Always use these tools responsibly and comply with applicable laws.
+> ⚠️ This project is made for learning, research and authorized security testing. Don't use these tools for anything illegal.
 
-##  Features
+## Features
 
-*  Automated OSINT tool installation
-*  Simplified environment setup
-*  Designed for Linux
-*  Easy-to-use Bash script
-*  Easily customizable and extensible
-*  Useful for OSINT research and cybersecurity studies
+* Install OSINT tools automatically
+* Easy setup
+* Linux support
+* Simple Bash script
+* Easy to add new tools
 
-##  Requirements
+## Requirements
 
 * Linux
 * Bash
 * Git
-* Internet connection
-* `sudo` privileges
+* Internet
+* `sudo`
 
 ## Installation
 
-Clone the repository:
+Give the script permission to run:
 
 ```bash
-git clone https://github.com/MarkDevBrasil/osint-master.git
+chmod +x install2.sh
 ```
 
-Enter the project directory:
+Run it:
 
 ```bash
-cd osint-master
+./install2.sh
 ```
 
-Make the script executable:
+## Tools
 
-```bash
-chmod +x install.sh
-```
+The script installs tools for things like:
 
-Run the installer
+* Information gathering
+* Domain reconnaissance
+* Username searching
+* Email OSINT
+* Social media OSINT
+* Geolocation
+* Infrastructure reconnaissance
 
-```bash
-./install.sh
-```
+More tools will be added later.
 
-## 🛠️ Tools
+## Contributing
 
-OSINT Master is designed to install tools useful for different areas of OSINT, including:
+Want to add something or fix something?
 
-*  Information gathering
-*  Domain reconnaissance
-*  Username investigation
-*  Email intelligence
-*  Social media research
-*  Geolocation
-*  Infrastructure reconnaissance
+Feel free to fork the repo, make your changes and open a Pull Request.
 
-The tool list will continue to grow as the project evolves.
+## License
 
-##  Project Structure
+MIT License.
 
-```text
-osint-master/
-├── install.sh
-├── README.md
-└── LICENSE
-```
-
-##  Contributing
-
-Contributions are welcome!
-
-If you want to add a new tool, improve the installer, or fix a bug:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a Pull Request
-
-##  License
-
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for more information.
+See the `LICENSE` file for more info.
 
 ---
 
-**OSINT Master — Simplifying OSINT environment setup.** 
+Made by **Mark** 
