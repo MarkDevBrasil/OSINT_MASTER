@@ -8,6 +8,10 @@ The idea is pretty simple: instead of installing everything one by one, you can 
 
 > ⚠️ This project is made for learning, research and authorized security testing. Don't use these tools for anything illegal.
 
+
+
+<img width="1884" height="864" alt="{80CCCBA2-1CAA-4C90-B67F-9AA1C3DAF3E9}" src="https://github.com/user-attachments/assets/a7a6faae-4f0c-486a-b336-d5650b5a5ac8" />
+
 ## Features
 
 * Install OSINT tools automatically
@@ -65,6 +69,8 @@ MIT License.
 See the `LICENSE` file for more info.
 
 ---
+
+showcase: https://www.youtube.com/watch?v=AWl2BSbvb0A
 
 Made by **Mark** 
 
