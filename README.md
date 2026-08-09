@@ -54,13 +54,13 @@ The script installs tools for things like:
 * Geolocation
 * Infrastructure reconnaissance
 
-More tools will be added later.
+More tools will be added later
 
 ## Contributing
 
-Want to add something or fix something?
+want to add something or fix something?
 
-Feel free to fork the repo, make your changes and open a Pull Request.
+Feel free to fork the repo, make your changes and open a pull request.
 
 ## License
 
