@@ -1,12 +1,12 @@
 
 
-# 🔎 OSINT Master
+#  OSINT Master
 
-OSINT Master is a simple Bash script that helps you install some useful OSINT tools on Linux.
+OSINT Master is a simple Bash script that helps you install some useful osint tools on linux
 
-The idea is pretty simple: instead of installing everything one by one, you can just run the script and let it do the work.
+The idea is pretty simple: instead of installing everything one by one, you can just run the script and let it do the work
 
-> ⚠️ This project is made for learning, research and authorized security testing. Don't use these tools for anything illegal.
+>  This project is made for learning, research and authorized security testing. Don't use these tools for anything illegal
 
 
 
